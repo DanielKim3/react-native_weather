@@ -65,7 +65,7 @@ const weatherOptions = {
   }
 };
 
-export default function Weather({ temp, 
+export default function Weather({ temp, condition
  }) {
   return (
     <LinearGradient
